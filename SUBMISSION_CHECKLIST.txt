@@ -1,0 +1,18 @@
+VITyarthi Submission Checklist
+==============================
+
+[OK] README.md
+[OK] statement.md
+[OK] Project report PDF
+[OK] 5+ meaningful Python modules/files
+[OK] Automated tests
+[OK] requirements.txt
+[OK] .gitignore
+[OK] LICENSE
+[OK] Architecture documentation
+
+Before final upload:
+1. Add actual final screenshots to the report if required by the portal.
+2. Do NOT upload screenshots or files containing real proxy credentials.
+3. Run the final project locally and verify the exact version being submitted.
+4. If GitHub is required, commit the source and documentation but keep real proxy/result files ignored.

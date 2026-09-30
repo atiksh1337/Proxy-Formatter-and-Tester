@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+unformat_proxy.txt
+proxies.txt
+working.txt
+fail.txt
+proxy_results.txt
+*.log
